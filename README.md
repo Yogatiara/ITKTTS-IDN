@@ -15,11 +15,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
         "Prinsip-prinsip ini juga sudah diterapkan dalam politik, bisnis, dan interaksi sehari-hari."
     </i>
   </p>
-  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback">{ip}{form_title}{ip}
-
-   <source type="audio/wav" src="https://www.dropbox.com/scl/fi/325qimcclvl1c24l48zpl/ground-truth_ts_1.wav?rlkey=zyjcg9njd3dvc45ie7nhssa1q&st=krj00nne&raw=1" type="audio/wav" />
- </audio>
-
+  [ground truth_ts_1.webm](https://github.com/user-attachments/assets/674e8743-368e-412f-89bb-1b328e25e164)
 <br><br>
 
   <p>
@@ -27,10 +23,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
         "Lihat situasi kondisi dulu, contohnya pantai mana aja itu?"
     </i>
   </p>
-  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback">{ip}{form_title}{ip}
-
-   <source type="audio/wav"  src="https://www.dropbox.com/scl/fi/olsqedkjdey1zpr3z0sod/ground-truth_ts_2.wav?rlkey=s69481z689hrdtqhrsal2e1e2&st=eh2tjgs7&raw=1" type="audio/wav" />
- </audio>
+  [ground truth_ts_2.webm](https://github.com/user-attachments/assets/da2660d1-ca1d-4088-b4ae-5daf3ab17034)
 </div>
 
 ## Contoh transkrip
