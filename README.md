@@ -4,12 +4,12 @@
 
 ITKTTS-IDN merupakan dataset yang dibuat untuk keperluan penelitian _Text-To-Speech_ dengan fokus pembicara tunggal berbahasa Indonesia. Dataset ini dibuat oleh mahasiswa bernama Yoga Tiara Wiguna program dari program studi Informatika Institut Teknologi Kalimantan (ITK). Transkrip diambil dari dataset publik [TITML-IDN](https://research.nii.ac.jp/src/en/TITML-IDN.html), [ASR-SIndoDuSC](https://magichub.com/datasets/indonesian-scripted-speech-corpus-daily-use-sentence/), [ASR-IndoCSC](https://magichub.com/datasets/indonesian-conversational-speech-corpus/), dan _audio book_ dari buku berjudul "The Art Of War" dengan mengakses video youtube pada channel [bacasuara](https://www.youtube.com/watch?v=XE5aP5JkPbI&t=33s).
 
-Dataset ini dapat diunduh melalui tautan berikut:
+Dataset ini dapat diunduh melalui tautan berikut:\
 https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=sharing
 
 ## Contoh Audio
 
-<div style="text-align: center; margin: 0px 0;">
+<div style="text-align: center">
   <p>
     <i>
         "Prinsip-prinsip ini juga sudah diterapkan dalam politik, bisnis, dan interaksi sehari-hari."
@@ -35,7 +35,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
 
 ## Contoh transkrip
 
-ITKTTS001-0001.wav|hai selamat pagi apa kabar?
+ITKTTS001-0001.wav|hai selamat pagi apa kabar?\
 ITKTTS001-0002.wav|semoga ujiannya berjalan lancar!
 
 ## Statistik Dataset
