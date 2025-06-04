@@ -8,6 +8,7 @@ Dataset ini dapat diunduh melalui tautan berikut:\
 https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=sharing
 
 ## Contoh Audio
+[ground truth_ts_1.webm](https://github.com/user-attachments/assets/674e8743-368e-412f-89bb-1b328e25e164)
 
 <div style="text-align: center">
   <p>
