@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
   </p>
   <audio controls="controls">{ip}{form_title}{ip}
 
-   <source src="https://www.dropbox.com/scl/fi/325qimcclvl1c24l48zpl/ground-truth_ts_1.wav?rlkey=zyjcg9njd3dvc45ie7nhssa1q&st=krj00nne&raw=1" type="audio/wav" />
+   <source type="audio/wav" src="https://www.dropbox.com/scl/fi/325qimcclvl1c24l48zpl/ground-truth_ts_1.wav?rlkey=zyjcg9njd3dvc45ie7nhssa1q&st=krj00nne&raw=1" type="audio/wav" />
  </audio>
 
 <br><br>
@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
   </p>
   <audio controls="controls">{ip}{form_title}{ip}
 
-   <source src="https://www.dropbox.com/scl/fi/olsqedkjdey1zpr3z0sod/ground-truth_ts_2.wav?rlkey=s69481z689hrdtqhrsal2e1e2&st=eh2tjgs7&raw=1" type="audio/wav" />
+   <source type="audio/wav"  src="https://www.dropbox.com/scl/fi/olsqedkjdey1zpr3z0sod/ground-truth_ts_2.wav?rlkey=s69481z689hrdtqhrsal2e1e2&st=eh2tjgs7&raw=1" type="audio/wav" />
  </audio>
 </div>
 
@@ -51,11 +51,13 @@ ITKTTS001-0002.wav|semoga ujiannya berjalan lancar!
 
 ## Struktur Folder
 
-ITKTTS-IDN  
+```
+ITKTTS-IDN
 │
 ├── utterance
-│ ├── audio 1.wav  
-│ ├── audio 2.wav  
-│ └── ...
+│   ├── audio 1.wav
+│   ├── audio 2.wav
+│   └── ...
 │
 └── Transkrip.txt
+```
