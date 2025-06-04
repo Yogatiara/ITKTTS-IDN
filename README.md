@@ -12,8 +12,6 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
 _"Prinsip-prinsip ini juga sudah diterapkan dalam politik, bisnis, dan interaksi sehari-hari."_\
 [ground truth_ts_1.webm](https://github.com/user-attachments/assets/fc410e85-f47e-47c7-8195-e1fd4511829e)
 
-<br><br>
-
 _"Lihat situasi kondisi dulu, contohnya pantai mana aja itu?"_\
 [ground truth_ts_2.webm](https://github.com/user-attachments/assets/0cddb16a-8ea2-4385-8c02-75aeea359199)
 
