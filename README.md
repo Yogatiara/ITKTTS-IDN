@@ -15,7 +15,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
         "Prinsip-prinsip ini juga sudah diterapkan dalam politik, bisnis, dan interaksi sehari-hari."
     </i>
   </p>
-  <audio controls="controls">{ip}{form_title}{ip}
+  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback">{ip}{form_title}{ip}
 
    <source type="audio/wav" src="https://www.dropbox.com/scl/fi/325qimcclvl1c24l48zpl/ground-truth_ts_1.wav?rlkey=zyjcg9njd3dvc45ie7nhssa1q&st=krj00nne&raw=1" type="audio/wav" />
  </audio>
@@ -27,7 +27,7 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
         "Lihat situasi kondisi dulu, contohnya pantai mana aja itu?"
     </i>
   </p>
-  <audio controls="controls">{ip}{form_title}{ip}
+  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback">{ip}{form_title}{ip}
 
    <source type="audio/wav"  src="https://www.dropbox.com/scl/fi/olsqedkjdey1zpr3z0sod/ground-truth_ts_2.wav?rlkey=s69481z689hrdtqhrsal2e1e2&st=eh2tjgs7&raw=1" type="audio/wav" />
  </audio>
