@@ -9,29 +9,13 @@ https://drive.google.com/file/d/1j5Cl-rJJ-LnTEcB5pyXnYkc60CKpd9Rw/view?usp=shari
 
 ## Contoh Audio
 
-<div style="text-align: center">
-  <p>
-    <i>
-        "Prinsip-prinsip ini juga sudah diterapkan dalam politik, bisnis, dan interaksi sehari-hari."
-    </i>
-  </p>
-  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback">{ip}{form_title}{ip}
+[ground truth_ts_1.webm](https://github.com/user-attachments/assets/fc410e85-f47e-47c7-8195-e1fd4511829e)
 
-   <source src="https://www.dropbox.com/scl/fi/325qimcclvl1c24l48zpl/ground-truth_ts_1.wav?rlkey=zyjcg9njd3dvc45ie7nhssa1q&st=krj00nne&raw=1" type="audio/wav" />
- </audio>
+_"Prinsip-prinsip ini juga sudah diterapkan dalam politik, bisnis, dan interaksi sehari-hari."_
 
-<br><br>
+[ground truth_ts_2.webm](https://github.com/user-attachments/assets/b6950ac2-2c58-42a8-b69d-e74279944c73)
 
-  <p>
-    <i>
-        "Lihat situasi kondisi dulu, contohnya pantai mana aja itu?"
-    </i>
-  </p>
-  <audio controls="1" controlslist="nodownload nofullscreen noremoteplayback">{ip}{form_title}{ip}
-
-   <source   src="https://www.dropbox.com/scl/fi/olsqedkjdey1zpr3z0sod/ground-truth_ts_2.wav?rlkey=s69481z689hrdtqhrsal2e1e2&st=eh2tjgs7&raw=1" type="audio/wav" />
- </audio>
-</div>
+_"Lihat situasi kondisi dulu, contohnya pantai mana aja itu?"_
 
 ## Contoh transkrip
 
